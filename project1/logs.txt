@@ -1,0 +1,177 @@
+Input file from: ./images/20K-Gray.jpg
+Output file to: ./images/my_cpu_20K-Gray.jpg
+Transformation Complete!
+Execution Time: 628 milliseconds
+n
+Input file from: ./images/20K-Gray.jpg
+Output file to: ./images/my_cpu_20K-Gray.jpg
+Transformation Complete!
+Execution Time: 66 milliseconds
+n
+n
+Input file from: ./images/20K-Gray.jpg
+Output file to: ./images/my_cpu_20K-Gray.jpg
+Transformation Complete!
+Execution Time: 631 milliseconds
+n
+n
+Input file from: ./images/20K-Gray.jpg
+Output file to: ./images/my_gpu_20K-Gray.jpg
+Transformation Complete!
+GPU Execution Time: 27.0587 milliseconds
+n
+Input file from: ./images/20K-Gray.jpg
+Output file to: ./images/my_gpu_20K-Gray.jpg
+Transformation Complete!
+Execution Time: 28 milliseconds
+n
+n
+Input file from: ./images/20K-RGB.jpg
+Output file to: ./images/my_cpu_20K-RGB.jpg
+Transformation Complete!
+Execution Time: 685 milliseconds
+n
+Input file from: ./images/20K-RGB.jpg
+Output file to: ./images/my_cpu_20K-RGB.jpg
+Transformation Complete!
+Execution Time: 66 milliseconds
+n
+n
+Input file from: ./images/20K-RGB.jpg
+Output file to: ./images/my_cpu_20K-RGB.jpg
+Transformation Complete!
+Execution Time: 699 milliseconds
+n
+n
+Input file from: ./images/20K-RGB.jpg
+Output file to: ./images/my_gpu_20K-RGB.jpg
+Transformation Complete!
+GPU Execution Time: 27.1458 milliseconds
+n
+Input file from: ./images/20K-RGB.jpg
+Output file to: ./images/my_gpu_20K-RGB.jpg
+Transformation Complete!
+Execution Time: 28 milliseconds
+n
+n
+Input file from: ./images/4K-Gray.jpg
+Output file to: ./images/my_cpu_4K-Gray.jpg
+Transformation Complete!
+Execution Time: 26 milliseconds
+n
+Input file from: ./images/4K-Gray.jpg
+Output file to: ./images/my_cpu_4K-Gray.jpg
+Transformation Complete!
+Execution Time: 25 milliseconds
+n
+n
+Input file from: ./images/4K-Gray.jpg
+Output file to: ./images/my_cpu_4K-Gray.jpg
+Transformation Complete!
+Execution Time: 25 milliseconds
+n
+n
+Input file from: ./images/4K-Gray.jpg
+Output file to: ./images/my_gpu_4K-Gray.jpg
+Transformation Complete!
+GPU Execution Time: 1.15651 milliseconds
+n
+Input file from: ./images/4K-Gray.jpg
+Output file to: ./images/my_gpu_4K-Gray.jpg
+Transformation Complete!
+Execution Time: 1 milliseconds
+n
+n
+Input file from: ./images/4K-RGB.jpg
+Output file to: ./images/my_cpu_4K-RGB.jpg
+Transformation Complete!
+Execution Time: 27 milliseconds
+n
+Input file from: ./images/4K-RGB.jpg
+Output file to: ./images/my_cpu_4K-RGB.jpg
+Transformation Complete!
+Execution Time: 25 milliseconds
+n
+n
+Input file from: ./images/4K-RGB.jpg
+Output file to: ./images/my_cpu_4K-RGB.jpg
+Transformation Complete!
+Execution Time: 25 milliseconds
+n
+n
+Input file from: ./images/4K-RGB.jpg
+Output file to: ./images/my_gpu_4K-RGB.jpg
+Transformation Complete!
+GPU Execution Time: 1.15782 milliseconds
+n
+Input file from: ./images/4K-RGB.jpg
+Output file to: ./images/my_gpu_4K-RGB.jpg
+Transformation Complete!
+Execution Time: 1 milliseconds
+n
+n
+Input file from: ./images/4K-Smooth.jpg
+Output file to: ./images/my_cpu_4K-Smooth.jpg
+Transformation Complete!
+Execution Time: 25 milliseconds
+n
+Input file from: ./images/4K-Smooth.jpg
+Output file to: ./images/my_cpu_4K-Smooth.jpg
+Transformation Complete!
+Execution Time: 28 milliseconds
+n
+n
+Input file from: ./images/4K-Smooth.jpg
+Output file to: ./images/my_cpu_4K-Smooth.jpg
+Transformation Complete!
+Execution Time: 25 milliseconds
+n
+n
+Input file from: ./images/4K-Smooth.jpg
+Output file to: ./images/my_gpu_4K-Smooth.jpg
+Transformation Complete!
+GPU Execution Time: 1.15552 milliseconds
+n
+Input file from: ./images/4K-Smooth.jpg
+Output file to: ./images/my_gpu_4K-Smooth.jpg
+Transformation Complete!
+Execution Time: 1 milliseconds
+n
+n
+Input file from: ./images/BilateralFilter.jpg
+Output file to: ./images/my_cpu_BilateralFilter.jpg
+Transformation Complete!
+Execution Time: 2 milliseconds
+n
+Input file from: ./images/BilateralFilter.jpg
+Output file to: ./images/my_cpu_BilateralFilter.jpg
+Transformation Complete!
+Execution Time: 17 milliseconds
+n
+n
+Input file from: ./images/BilateralFilter.jpg
+Output file to: ./images/my_cpu_BilateralFilter.jpg
+Transformation Complete!
+Execution Time: 1 milliseconds
+n
+n
+Input file from: ./images/BilateralFilter.jpg
+Output file to: ./images/my_gpu_BilateralFilter.jpg
+Transformation Complete!
+GPU Execution Time: 0.116576 milliseconds
+n
+Input file from: ./images/BilateralFilter.jpg
+Output file to: ./images/my_gpu_BilateralFilter.jpg
+Transformation Complete!
+Execution Time: 0 milliseconds
+n
+n
+n
+Input file from: ./images/kodim08_grayscale_blur.png
+n
+n
+Input file from: ./images/kodim08_grayscale_blur.png
+n
+n
+Input file from: ./images/kodim08_grayscale_blur.png
+n
