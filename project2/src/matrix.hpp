@@ -12,12 +12,10 @@
 #include <vector>
 
 class Matrix {
-   private:
+   public:
     int** data;
     size_t rows;
     size_t cols;
-
-   public:
     // Constructor
     Matrix(size_t rows, size_t cols);
 

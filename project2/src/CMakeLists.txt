@@ -1,3 +1,4 @@
+# set(CMAKE_BUILD_TYPE Debug)
 # Required packages and flags
 ## MPI
 find_package(MPI REQUIRED)
